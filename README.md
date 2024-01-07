@@ -18,18 +18,15 @@ To start creating captivating 3D graphics with our code, follow these simple ste
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/MinhazCodes-R/3DGraphics.git
    ```
 
 2. **Install dependencies:**
    ```bash
-   [command to install dependencies, if any]
+   pip install numpy
    ```
 
 3. **Run the code:**
-   ```bash
-   [command to execute the code]
-   ```
 
 4. **Follow on-screen instructions:**
    Enter three-dimensional coordinates and rotational degrees when prompted.
