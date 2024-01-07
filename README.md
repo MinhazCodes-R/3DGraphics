@@ -31,20 +31,7 @@ To start creating captivating 3D graphics with our code, follow these simple ste
 4. **Follow on-screen instructions:**
    Enter three-dimensional coordinates and rotational degrees when prompted.
 
-## Documentation
+## Future Implantations
 
-For detailed information on using and customizing the 3D Graphics Generator, refer to our [documentation](./docs).
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute, please review our [contribution guidelines](CONTRIBUTING.md).
-
-## Issues and Support
-
-If you encounter any issues or have questions, feel free to [open an issue](https://github.com/[your_username]/[your_repo]/issues). Our community and contributors will be happy to assist you.
-
-## License
-
-The 3D Graphics Generator is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-
-Thank you for choosing the 3D Graphics Generator. Start visualizing your ideas in the third dimension! 🎨✨
+My future goals and ambition for this project is to develope and launch a web and or phone application.
+This is so that the access to this code is more easily available and interactive.
